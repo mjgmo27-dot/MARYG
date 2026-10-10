@@ -4,12 +4,10 @@
 
 ### Added
 - Pinterest Added ✅
-- Antisexsticker Added ☑️
-- Autogreet Added ✅
-- Sonu Ai Song added ✅
-- Url Added ✅
 - Transcribe Voice Added ✅
 - More Features Added ✅ 
 
 ### Fixed
 - All Antilink Fixed 🫀
+- Play Fixed 🌝
+- Purge Fixed 🔥
